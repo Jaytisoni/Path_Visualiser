@@ -4,7 +4,7 @@ A web application to visualize various pathfinding algorithms on a Grid
 
 ## Installation
 ### Cloning the repository:
-Clone the repository using git clone 
+Clone the repository using git clone https://github.com/Jaytisoni/Path_Visualiser.git
 ### Installing dependencies:
 Run `npm install`
 ### Starting the server:
